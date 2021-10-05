@@ -1,1 +1,2 @@
 # ocpphpinfo
+PHP INFO
